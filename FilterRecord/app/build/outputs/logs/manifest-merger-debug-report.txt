@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\bc1ea93722d8d7d798fde0f7d6c2661a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\43a6e5985e5f2d9b1b9e3bbc0cbeceb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\88b225989e85d0584dd4f9b769c9d7d9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\346207bae64b844af6e644e1d78fa184\AndroidManifest.xml:2:1-13:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\1b69a174a305c5885efb1678b8f17df2\AndroidManifest.xml:15:1-21:12
+MERGED from [:library] D:\statics\open\myExample\FilterRecord\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a97ab69a0148404fa63cdbe137e05512\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\77ea7fea31779eb2b7d5bf778b37efa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46f4e98816765f8ad63168528521106f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d8768beed2b6501f014fbaadae015f92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\1216adf9ff92cbccc672075358bef306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\51be2b3148f86f305ced56504fb6bfa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\64d96baf2c7502154e41980beefa04b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0fd4ff72ecc52c16e92daadd08d5a6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d2c872cacb2986bcf77194e031de2efc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\628385794daf77510674709194c67a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\30afbfdd9fc4c0abe8e22d76555f0426\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:5:22-62
+application
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\88b225989e85d0584dd4f9b769c9d7d9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\88b225989e85d0584dd4f9b769c9d7d9\AndroidManifest.xml:9:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\346207bae64b844af6e644e1d78fa184\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\346207bae64b844af6e644e1d78fa184\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:13:9-52
+activity#com.xiuyukeji.filterrecord.MainActivity
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.xiuyukeji.filterrecord.RecordActivity
+ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:23:9-25:48
+	android:label
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml:24:13-43
+uses-sdk
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\bc1ea93722d8d7d798fde0f7d6c2661a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\bc1ea93722d8d7d798fde0f7d6c2661a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\43a6e5985e5f2d9b1b9e3bbc0cbeceb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\43a6e5985e5f2d9b1b9e3bbc0cbeceb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\88b225989e85d0584dd4f9b769c9d7d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\88b225989e85d0584dd4f9b769c9d7d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\346207bae64b844af6e644e1d78fa184\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.4.aar\346207bae64b844af6e644e1d78fa184\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\1b69a174a305c5885efb1678b8f17df2\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\1b69a174a305c5885efb1678b8f17df2\AndroidManifest.xml:19:5-43
+MERGED from [:library] D:\statics\open\myExample\FilterRecord\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-44
+MERGED from [:library] D:\statics\open\myExample\FilterRecord\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a97ab69a0148404fa63cdbe137e05512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a97ab69a0148404fa63cdbe137e05512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\77ea7fea31779eb2b7d5bf778b37efa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\77ea7fea31779eb2b7d5bf778b37efa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46f4e98816765f8ad63168528521106f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\46f4e98816765f8ad63168528521106f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d8768beed2b6501f014fbaadae015f92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d8768beed2b6501f014fbaadae015f92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\1216adf9ff92cbccc672075358bef306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\1216adf9ff92cbccc672075358bef306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\51be2b3148f86f305ced56504fb6bfa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\51be2b3148f86f305ced56504fb6bfa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\64d96baf2c7502154e41980beefa04b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\64d96baf2c7502154e41980beefa04b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0fd4ff72ecc52c16e92daadd08d5a6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\0fd4ff72ecc52c16e92daadd08d5a6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d2c872cacb2986bcf77194e031de2efc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d2c872cacb2986bcf77194e031de2efc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\628385794daf77510674709194c67a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\628385794daf77510674709194c67a4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\30afbfdd9fc4c0abe8e22d76555f0426\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\30afbfdd9fc4c0abe8e22d76555f0426\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		ADDED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml
+		INJECTED from D:\statics\open\myExample\FilterRecord\app\src\main\AndroidManifest.xml

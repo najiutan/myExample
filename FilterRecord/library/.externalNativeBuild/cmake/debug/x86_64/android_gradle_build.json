@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "D:/statics/open/myExample/FilterRecord/library/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"E:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\statics\\open\\myExample\\FilterRecord\\library\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MagicBeautify-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "MagicBeautify",
+			"buildCommand" : "E:\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\statics\\open\\myExample\\FilterRecord\\library\\.externalNativeBuild\\cmake\\debug\\x86_64 --target MagicBeautify",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=E:/Android/android-ndk-r16-beta1/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=E:/Android/android-ndk-r16-beta1/sysroot  -DMagicBeautify_EXPORTS -isystem E:\\Android\\android-ndk-r16-beta1\\sources\\cxx-stl\\stlport\\stlport -isystem E:\\Android\\android-ndk-r16-beta1\\sources\\cxx-stl\\gabi++\\include  -isystem E:/Android/android-ndk-r16-beta1/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/statics/open/myExample/FilterRecord/library/src/main/jni/MagicJni.cpp",
+					"workingDirectory" : "D:/statics/open/myExample/FilterRecord/library/.externalNativeBuild/cmake/debug/x86_64"
+				}
+			],
+			"output" : "D:/statics/open/myExample/FilterRecord/library/build/intermediates/cmake/debug/obj/x86_64/libMagicBeautify.so",
+			"toolchain" : "969852561"
+		}
+	},
+	"toolchains" : 
+	{
+		"969852561" : 
+		{
+			"cCompilerExecutable" : "E:/Android/android-ndk-r16-beta1/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/Android/android-ndk-r16-beta1/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

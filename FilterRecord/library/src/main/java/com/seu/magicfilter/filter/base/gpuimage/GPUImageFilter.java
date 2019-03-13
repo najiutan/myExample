@@ -256,6 +256,8 @@ public class GPUImageFilter {
 
         if (textureId != OpenGlUtils.NO_TEXTURE) {
             GLES20.glActiveTexture(GLES20.GL_TEXTURE0);
+            //这里是绑定了surfaceTexture的textureID, 这个和frameBuffer的textureID不冲突，如果我们不创建自己的frameBuffer,
+            //显示系统也会存在一个默认的frameBuffer,这frameBuffer同样有textureId.
             GLES20.glBindTexture(GLES11Ext.GL_TEXTURE_EXTERNAL_OES, textureId);
             GLES20.glUniform1i(mGLUniformTexture, 0);
         }

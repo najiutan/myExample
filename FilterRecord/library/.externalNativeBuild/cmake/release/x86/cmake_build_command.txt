@@ -1,0 +1,17 @@
+Executable : E:\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\statics\open\myExample\FilterRecord\library
+-BD:\statics\open\myExample\FilterRecord\library\.externalNativeBuild\cmake\release\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-18
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\statics\open\myExample\FilterRecord\library\build\intermediates\cmake\release\obj\x86
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=E:\Android\android-ndk-r16-beta1
+-DCMAKE_TOOLCHAIN_FILE=E:\Android\android-ndk-r16-beta1\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_PLATFORM=android-18
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=stlport_static
+jvmArgs : 
+
